@@ -1,3 +1,4 @@
 pandas
 scikit-learn
-streamlit
+streamlit==1.43.0
+
