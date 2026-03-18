@@ -40,15 +40,21 @@ spam-email-classifier/
 # ⚙️ Run Locally 
 
 1. Clone the repo
-git clone https://github.com/your-username/spam-email-classifier.git
+```
+git clone https://github.com/Shreeya788/spam-email-classifier.git
+```
+```
 cd spam-email-classifier
+```
 
 2. Install dependencies
+```
 pip install -r requirements.txt
-
-3. Run the app
+```
+4. Run the app
+```
 streamlit run app.py
-
+```
 # Dataset
 [SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
 
